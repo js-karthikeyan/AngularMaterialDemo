@@ -1,5 +1,17 @@
 # AngularMaterialDemo
 
+
+npm i -g @angular/cli
+
+ng new AngularMaterialDemo --create-application=false --standalone=true --force=true
+
+ng g app basictemplate
+
+ng s -o basictemplate
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
